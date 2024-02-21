@@ -1,5 +1,5 @@
 
-//Java Programming
+//Oasis infobyte task 
 //Task 3 - ATM Interface
 
 package ATMINTERFACE;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class ATM{
     
     public static void main(String args[]){
-        System.out.println("WELCOME TO ATM!!!");
+        System.out.println("WELCOME TO ATM...");
         System.out.println("\nSelect any one option!");
         System.out.println("1.REGISTER\n12EXIT");
         System.out.println("Enter your option :");
