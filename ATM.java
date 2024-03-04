@@ -1,5 +1,5 @@
 
-//Oasis infobyte task 
+//Oasis infobyte task (project)
 //Task 3 - ATM Interface
 
 package ATMINTERFACE;
